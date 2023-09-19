@@ -47,11 +47,8 @@ nav img {
 nav button {
   width: 18%;
 }
-main h1 p h4 span {
-  float: left;
-  position: relative;
-  left: 50%;
-  text-align: center;
+main {
+  width: 100%;
 }
 /******************************************
 /* ADDITIONAL STYLES
