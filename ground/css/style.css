@@ -33,6 +33,7 @@ body {
 header nav *{
   float: left;
   width: 33%;
+  list-style: none;
 }
 nav li {
   margin: -9px;
@@ -46,8 +47,11 @@ nav img {
 nav button {
   width: 18%;
 }
-main {
-  width: 100%;
+main h1 p h4 span {
+  float: left;
+  position: relative;
+  left: 50%;
+  text-align: center;
 }
 /******************************************
 /* ADDITIONAL STYLES
