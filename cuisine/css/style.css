@@ -29,13 +29,20 @@ body {
 /******************************************
 /* LAYOUT
 /*******************************************/
-header img {
+header .logo-img {
   float: left;
+  width: 20%;
+  
 }
 nav li {
 float: left;
-margin: 100px;
+margin-left: 3px;
+list-style: none;
 }
+.store-area {
+  width: 1%;
+}
+
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
